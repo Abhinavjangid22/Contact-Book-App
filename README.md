@@ -9,9 +9,9 @@ A simple Python contact book application that lets you **add**, **view**, and **
 - Data stored in `contacts.txt`
   
 ## 🛠 Tech Used
--Python 3
--File Handling
--Command-Line Interface
+- Python 3
+- File Handling
+- Command-Line Interface
 
 ## 💻 How to Run
 ```bash
